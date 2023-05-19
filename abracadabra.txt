@@ -1,0 +1,4 @@
+public class Abracadabra {
+  public static void main(String[] args) {
+       System.out.println("ABRACADABRA");
+  }
